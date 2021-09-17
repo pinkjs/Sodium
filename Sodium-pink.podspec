@@ -4,7 +4,7 @@
 # If you need to support Apple Silicon, use the Swift package instead.
 
 Pod::Spec.new do |s|
-  s.name = "Sodium"
+  s.name = "Sodium-pink"
   s.version = "0.1.0"
 
   s.license = { type: "MIT", file: "LICENSE" }
